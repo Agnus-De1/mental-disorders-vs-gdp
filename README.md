@@ -20,4 +20,5 @@ This project examines the relationship between mental health disorders and GDP a
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Agnus-De1/mental-disorders-vs-gdp.git
+```
